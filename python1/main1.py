@@ -8,7 +8,15 @@ print a
 # 第二次打印
 b="你好"
 print b
+
 def cc():
     print("im fine")
 cc()
+
+
+# 第三次打印
+c="HI"
+print c
+
+
 
