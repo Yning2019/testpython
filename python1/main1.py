@@ -12,7 +12,9 @@ print b
 def cc():
     print("how are you")
 cc()
-
+def aa():
+  print("im fine")
+aa()
 
 # 第三次打印
 c="HI"
