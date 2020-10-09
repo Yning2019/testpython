@@ -10,7 +10,7 @@ b="你好"
 print b
 
 def cc():
-    print("im fine")
+    print("how are you")
 cc()
 
 
